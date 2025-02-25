@@ -19,5 +19,5 @@ Code for educational purposes: a video will be released soon on my YouTube chann
 
 Demo:
 
-![Homepage](demo\2.png) <br>
-![Database Structure View](demo\1.png)
+![Homepage](demo/2.png) <br>
+![Database Structure View](demo/1.png)
