@@ -1,0 +1,10 @@
+backend/__pycache__
+backend/venv
+
+frontend/node_modules
+frontend/.gitignore
+frontend/*.config
+frontend/*.json
+frontend/*.node_modules
+frontend/*.md
+frontend/*.js

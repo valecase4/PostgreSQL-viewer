@@ -1,0 +1,43 @@
+.tableDiv {
+    border: 1px solid gray;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.tableNameDiv {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    text-transform: uppercase;
+    height: 30%;
+    background-color: rgb(231, 231, 231);
+}
+
+.tableBodyDiv {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+    width: 100%;
+    height: 70%;
+}
+
+.columnNameDiv {
+    border-bottom: 1px solid gray;
+    height: 50%;
+}
+
+.tableColumnDiv div {
+    padding: 10px;
+    flex: 1;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+}
+
+.tableColumnDiv:not(:last-child) {
+    border-right: 1px solid gray;
+} 

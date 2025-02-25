@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 70px;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 50px;
+}
+
+.noTableText {
+    padding: 10px;
+}
