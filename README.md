@@ -16,3 +16,8 @@ Stack:
 Code for educational purposes: a video will be released soon on my YouTube channel: https://www.youtube.com/@valeriocaselli4 <br>
 
 ---
+
+Demo:
+
+![Homepage](demo\2.png) <br>
+![Database Structure View](demo\1.png)
